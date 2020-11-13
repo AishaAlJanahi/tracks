@@ -1,5 +1,6 @@
 hub atac-seq
 shortLabel atac-seq
 longLabel divya atac seq
+genomesFile genomes.txt
 email aljanahiaa@nih.gov
 descriptionUrl none
